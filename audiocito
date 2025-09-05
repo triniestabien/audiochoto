@@ -1,7 +1,3 @@
-echo "# audiochoto" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/triniestabien/audiochoto.git
-git push -u origin main
+git add Celtic Music (Copyright Free) - Towards The Horizon by Alexander Nakarada.mp3
+git commit -m "Agrego musica"
+git push origin main
